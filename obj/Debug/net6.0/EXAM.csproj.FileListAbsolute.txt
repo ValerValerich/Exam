@@ -1,0 +1,15 @@
+C:\Users\zabab\Desktop\EXAM\bin\Debug\net6.0\EXAM.exe
+C:\Users\zabab\Desktop\EXAM\bin\Debug\net6.0\EXAM.deps.json
+C:\Users\zabab\Desktop\EXAM\bin\Debug\net6.0\EXAM.runtimeconfig.json
+C:\Users\zabab\Desktop\EXAM\bin\Debug\net6.0\EXAM.dll
+C:\Users\zabab\Desktop\EXAM\bin\Debug\net6.0\EXAM.pdb
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.csproj.AssemblyReference.cache
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.AssemblyInfoInputs.cache
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.AssemblyInfo.cs
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.csproj.CoreCompileInputs.cache
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.dll
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\refint\EXAM.dll
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.pdb
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\EXAM.genruntimeconfig.cache
+C:\Users\zabab\Desktop\EXAM\obj\Debug\net6.0\ref\EXAM.dll
