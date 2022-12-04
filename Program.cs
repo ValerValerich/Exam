@@ -15,7 +15,10 @@ string[] MassOnlySmallString(string[] ar)
     return massForOut;
 }
 
-string[] startMass = new string[4] { "Один", "Два", "Три", "00" };
+string[] startMass = new string[] { "Один", "Два", "Три", "00", "cas573673 x2'45", "_@_", "1"};
 string[] resMass = MassOnlySmallString(startMass);
 
+Console.WriteLine("Это изначальный массив");
+Console.WriteLine(String.Join(", ", startMass));
+Console.WriteLine("Это результирующий массив");
 Console.WriteLine(String.Join(", ", resMass));
